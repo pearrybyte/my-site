@@ -4,4 +4,6 @@ extended = true
 min = '0.128.0'
 
 [params]
-  themeColor = "pink"
+  themeColor = "paper"
+
+
