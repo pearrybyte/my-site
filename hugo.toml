@@ -1,6 +1,6 @@
-baseURL = 'https://pearrybyte.github.io/my-site/'
+baseURL = 'https://pearrybyte.github.io/recordofmyyouth/'
 languageCode = 'en-us'
-title = 'ChoopuChups'
+title = 'Record Of My Youth'
 theme = 'hugo-theme-re-terminal'
 [caches]
   [caches.images]

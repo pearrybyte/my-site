@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-site/</loc>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/posts/</loc>
+    <lastmod>2025-11-17T19:39:29-08:00</lastmod>
+  </url><url>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/</loc>
+    <lastmod>2025-11-17T19:39:29-08:00</lastmod>
+  </url><url>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/posts/recordofmyyouth/</loc>
+    <lastmod>2025-11-17T19:39:29-08:00</lastmod>
+  </url><url>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/posts/second-post/</loc>
     <lastmod>2025-11-08T22:39:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/posts/second-post/</loc>
-    <lastmod>2025-11-08T22:39:29-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-site/posts/</loc>
-    <lastmod>2025-11-08T22:39:29-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-site/posts/first-post/</loc>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/posts/first-post/</loc>
     <lastmod>2025-11-05T18:28:17-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/categories/</loc>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-site/tags/</loc>
+    <loc>https://pearrybyte.github.io/recordofmyyouth/tags/</loc>
   </url>
 </urlset>

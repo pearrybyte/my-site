@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/CHINNA/Desktop/my-site",
+	"sourceRoot": "/Users/CHINNA/Desktop/recordofmyyouth",
 	"sources": [
 		"css/base.scss",
 		"themes/hugo-theme-re-terminal/assets/css/variables-light.scss",
